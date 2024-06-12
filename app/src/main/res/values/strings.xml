@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Numbers Application</string>
+
+
+
+    <string name="play">Play</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="final_score">Final score: %1$d</string>
+    <string name="time_left_label">Time left: %1$d</string>
+    <string name="round_label">Round: %1$d/10</string>
+    <string name="enter_num">Enter a number</string>
+    <string name="save_number">Save Number</string>
+    <string name="play_again">Play again</string>
+    <string name="title">Quick-math</string>
+    <string name="share_game_success_message">I am learning math using Quick-math! 🎉</string>
+
+</resources>

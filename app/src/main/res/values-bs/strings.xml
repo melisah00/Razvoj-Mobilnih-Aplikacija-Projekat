@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacija Brojevi</string>
+
+
+
+    <string name="play">Igraj</string>
+    <string name="score_label">Bodovi: %1$d</string>
+    <string name="final_score">Finalni bodovi: %1$d</string>
+    <string name="time_left_label">Vrijeme: %1$d</string>
+    <string name="round_label">Runda: %1$d/10</string>
+    <string name="enter_num">Unesi broj</string>
+    <string name="save_number">Sačuvaj broj</string>
+    <string name="play_again">Igraj ponovo</string>
+    <string name="title">Brza-matematika</string>
+    <string name="share_game_success_message">Učim matematiku koristeći Brzu-matematiku! 🎉</string>
+
+</resources>
